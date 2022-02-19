@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @drunkm3m3r(Hritik Aswani)
+- 👋 Hi, I’m @drunkm3m3r
 - 👀 I’m interested in Python,Javascript,HTML,CSS,Java,Ruby,and p5
 - 🌱 I’m currently learning Python and JS
 - 💞️ I’m looking to collaborate on ...
